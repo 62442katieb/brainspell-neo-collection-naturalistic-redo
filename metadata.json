@@ -1,0 +1,16 @@
+{
+    "description": "replication of the naturalistic meta-analysis by Bottenhorn et al (2018)",
+    "exclusion_criteria": [
+        "static stimulus",
+        "age <18"
+    ],
+    "inclusion_criteria": [],
+    "search_to_pmids": {},
+    "tags": [
+        "Film viewing",
+        "Music",
+        "Music comprehension/production",
+        "video games"
+    ],
+    "unmapped_pmids": []
+}
